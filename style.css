@@ -1,0 +1,12 @@
+.section1, .section2, .section3
+{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: white;
+}
+
+body
+{
+    background-color: aquamarine;
+}
